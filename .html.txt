@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+    </head>
+    <body>
+
+        <!--Heading , Paragraph-->
+
+        <!--h1.... h6 -->
+        <h1>my blog heading</h1>
+
+</body>
+</html>
